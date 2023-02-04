@@ -1,7 +1,7 @@
 {
   "name": "learn-react",
   "version": "0.1.0",
-  "homepage": "https://sahilphulwani23.github.io/Expense-tracker",
+  "homepage": "https://github.com/sahilphulwani23/expense-tracker-react",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
